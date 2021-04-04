@@ -8,7 +8,7 @@ let eightBall = '';
 
 switch (randomNumber){
   case 0:
-    eigthBall = 'It is certain';
+    eightBall = 'It is certain';
     break;
   case 1:
     eightBall = 'It is decidedly so';
